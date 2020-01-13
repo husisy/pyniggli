@@ -2,9 +2,9 @@
 
 rewrite in pure python and numpy
 
-a drop-in replacement for the original implementation
+a drop-in replacement for the original implementation (see [link](https://github.com/atztogo/niggli))
 
-the c-code and the formula in the paper (see link) are quite confusing for me. If anyone get a deeper insight, please help to improve the code.
+the c-code and the formula in the paper (see [link](http://scripts.iucr.org/cgi-bin/paper?S010876730302186X)) are quite confusing for me. If anyone get a deeper insight, please help to improve the code.
 
 ## quickstart
 
@@ -19,8 +19,8 @@ the c-code and the formula in the paper (see link) are quite confusing for me. I
 
 ## about license
 
-The niggli code is released under the license (see link) (BSD-3?), but I  prefer MIT license.
+The niggli code is released under the license (see [link](https://github.com/atztogo/niggli/blob/master/LICENSE.txt)) (BSD-3?), but I  prefer MIT license.
 
-The origin License file is also stored in this repo (see link) for reference, add I also add MIT license file. I am not sure whether it's legal or not, please tell me if not, thanks.
+The origin License file is also stored in this repo (see [link](https://github.com/husisy/pyniggli/blob/master/original_license.txt)) for reference, add I also add MIT license file. I am not sure whether it's legal or not, please tell me if not, thanks.
 
 also claim: the data files in `data/` are from niggli repo.
